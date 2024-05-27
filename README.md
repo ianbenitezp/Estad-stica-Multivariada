@@ -1,1 +1,1 @@
-"Estadística Multivariada. Grupo 700. Ian Benitez Patiño. Clave 201775"
+## Estadística Multivariada. Grupo 700. Ian Benitez Patiño. Clave 201775
